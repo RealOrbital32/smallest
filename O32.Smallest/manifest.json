@@ -1,0 +1,9 @@
+{
+  "filename": "NewHorizonsConfig.dll",
+  "author": "Orbital 32 (a.k.a cigtu)",
+  "name": "Galaxy's Smallest System",
+  "uniqueName": "O32.Smallest",
+  "version": "1.0.0",
+  "owmlVersion": "2.1.0",
+  "dependencies": [ "xen.NewHorizons" ]
+}

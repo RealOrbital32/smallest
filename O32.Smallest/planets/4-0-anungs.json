@@ -1,0 +1,46 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Anungs",
+	"starSystem": "O32.Smallest",
+	"Base": {
+		"surfaceSize": 51,
+		"surfaceGravity": 15,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 1200,
+		"inclination": 0,
+		"primaryBody": "Tiny Sun",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Atmosphere": {
+		"size": 60,
+		"fogSize": 60,
+		"atmosphereTint": {
+			"r": 130,
+			"g": 150,
+			"b": 140,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 130,
+			"g": 150,
+			"b": 140,
+			"a": 255
+		},
+		"clouds": {
+			"texturePath": "planets/assets/anungs.png",
+			"capPath": "planets/assets/anungs_cap.png",
+			"innerCloudRadius": 10,
+			"outerCloudRadius": 55
+		}
+	},
+	"Lava": {
+		"size": 10
+	}
+}

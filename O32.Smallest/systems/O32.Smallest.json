@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+	"canEnterViaWarpDrive": true,
+	"destroyStockPlanets": true,
+	"coords": {
+		"x": [ 0, 1, 2 ],
+		"y": [ 3, 4, 5 ],
+		"z": [ 0, 2, 5 ]
+	},
+	"vesselPosition": {
+		"x": 4000,
+		"y": 0,
+		"z": 4000
+	},
+	"curiosities": [
+		{
+			"id": "Smallest",
+			"color": {
+				"r": 205,
+				"g": 205,
+				"b": 205,
+				"a": 205
+			},
+			"highlightColor": {
+				"r": 255,
+				"g": 255,
+				"b": 255,
+				"a": 255
+			}
+		}
+	],
+	"initialReveal": [
+		"GALAXYS_SMALLEST"
+	]
+}

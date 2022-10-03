@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>tinysun</ID>
+
+    <Entry>
+        <ID>TINYSUN</ID>
+        <Name>TinySun</Name>
+
+        <Curiosity>Smallest</Curiosity>
+
+        <RumorFact>
+            <ID>GALAXYS_SMALLEST</ID>
+            <RumorName>The Smallest System in the Galaxy</RumorName>
+            <Text>Welcome to the smallest sytstem in the galaxy! Here you can find 5 planets, each are roughly 20 meters (4 hatchlings) wide. Have fun!</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

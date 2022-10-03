@@ -1,0 +1,33 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Rilelel",
+	"starSystem": "O32.Smallest",
+	"Base": {
+		"surfaceSize": 21,
+		"surfaceGravity": 15,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 700,
+		"inclination": 0,
+		"primaryBody": "Tiny Sun",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"ProcGen": {
+		"color": {
+			"r": 200,
+			"g": 70,
+			"b": 70,
+			"a": 255
+		},
+		"scale": 20
+	},
+	"Lava": {
+		"size": 20
+	}
+}
