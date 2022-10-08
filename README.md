@@ -4,10 +4,10 @@ The smallest system in the galaxy!
 Containing just five bite-sized planets, you can easily zip around the system in no time! Contains scenic views.
 
 Map of the system (~1500m diameter)
-![image](https://user-images.githubusercontent.com/87882655/193552987-0ffddd4e-6bf0-4d77-9ac8-a9679bb48c48.png)
+![solar](https://user-images.githubusercontent.com/87882655/194716207-1dc6ac54-8544-4df1-be0f-b29f165c93c2.png)
 
 Selfie on Onubga
-![image](https://user-images.githubusercontent.com/87882655/193552725-62f2fde3-bf23-4160-a5a0-66957d0d87d3.png)
+![anungs](https://user-images.githubusercontent.com/87882655/194716214-7f8ddec3-9255-4845-afff-a5c52c6f4cb2.png)
 
 Size of Heheheha (ship for scale)
 ![image](https://user-images.githubusercontent.com/87882655/193553341-0ec83ffb-a258-4103-8fee-5ec7a806100f.png)
