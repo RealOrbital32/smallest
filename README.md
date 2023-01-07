@@ -1,9 +1,9 @@
 # smallest
-The smallest system in the galaxy!
+The smallest galaxy in the universe!
 
-Containing just five bite-sized planets, you can easily zip around the system in no time! Contains scenic views.
+Containing just fifteen bite-sized planets, you can easily zip around the systems in no time! Contains scenic views.
 
-Map of the system (~1500m diameter)
+Map of the Blarg system (~3000m diameter, ~1500m radius)
 ![solar](https://user-images.githubusercontent.com/87882655/194716207-1dc6ac54-8544-4df1-be0f-b29f165c93c2.png)
 
 Selfie on Onubga
