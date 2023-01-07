@@ -1,0 +1,39 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Rimbimbim",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 26,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 1000,
+    "inclination": 0,
+    "primaryBody": "Skwarg",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "ProcGen": {
+    "color": {
+      "r": 209,
+      "g": 84,
+      "b": 138,
+      "a": 255
+    },
+    "scale": 25
+  },
+  "Sand": {
+    "size": 25,
+    "tint": {
+      "r": 163,
+      "g": 49,
+      "b": 98,
+      "a": 255
+    }
+  }
+}

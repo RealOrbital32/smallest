@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Skwarg",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceGravity": 25,
+    "surfaceSize": 750,
+    "hasMapMarker": true,
+    "gravityFallOff": "inverseSquared"
+  },
+  "Orbit": {
+    "semiMajorAxis": 13000,
+    "trueAnomaly": 214,
+    "inclination": 3,
+    "primaryBody": "Core",
+    "eccentricity": 0.02,
+    "argumentOfPeriapsis": 97
+  },
+  "Star": {
+    "size": 350,
+    "lightRadius": 6000,
+    "tint": {
+      "r": 200,
+      "g": 150,
+      "b": 0,
+      "a": 255
+    },
+    "solarLuminosity": 0.8
+  }
+}

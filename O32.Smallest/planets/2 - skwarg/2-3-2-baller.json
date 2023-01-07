@@ -1,0 +1,52 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Baller",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 21,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 50,
+    "inclination": 0,
+    "primaryBody": "Meme Twins",
+    "isMoon": true,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "ProcGen": {
+    "color": {
+      "r": 219,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "scale": 20
+  },
+  "Sand": {
+    "size": 20,
+    "tint": {
+      "r": 219,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    }
+  },
+  "Props": {
+    "details": [
+      {
+        "assetBundle": "planets/prefabs/o32-baller",
+        "path": "Assets/baller.prefab",
+        "position": {
+          "x": 0,
+          "y": 22,
+          "z": 0
+        }
+      }
+    ]
+  }
+}

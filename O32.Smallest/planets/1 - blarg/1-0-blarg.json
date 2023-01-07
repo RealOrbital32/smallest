@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Blarg",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceGravity": 15,
+    "surfaceSize": 300,
+    "hasMapMarker": true,
+    "gravityFallOff": "inverseSquared"
+  },
+  "Orbit": {
+    "semiMajorAxis": 14000,
+    "inclination": 5,
+    "primaryBody": "Core",
+    "eccentricity": 0.01
+  },
+  "Star": {
+    "size": 300,
+    "lightRadius": 6000,
+    "tint": {
+      "r": 200,
+      "g": 50,
+      "b": 0,
+      "a": 255
+    },
+    "solarLuminosity": 0.8
+  },
+  "ShipLog": {
+    "xmlFile": "planets/ShipLogs/tinysun.xml"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Core",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceGravity": 45,
+    "surfaceSize": 600,
+    "hasMapMarker": true,
+    "gravityFallOff": "inverseSquared",
+    "centerOfSolarSystem": true
+  },
+  "Orbit": {
+    "isStatic": true
+  },
+  "Star": {
+    "size": 500,
+    "lightRadius": 0,
+    "tint": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "lifespan": 500,
+    "solarLuminosity": 0
+  },
+  "Props": {
+    "singularities": [
+      {
+        "horizonRadius": 450,
+        "distortRadius": 600,
+        "type": "blackHole"
+      }
+    ]
+  },
+  "Rings": [
+    {
+      "texture": "planets/assets/accretion_disk.png",
+      "rotationSpeed": 15,
+      "inclination": 45,
+      "fluidType": "plasma",
+      "outerRadius": 3500
+    },
+    {
+      "texture": "planets/assets/accretion_disk2.png",
+      "rotationSpeed": 15,
+      "inclination": 45,
+      "fluidType": "plasma",
+      "outerRadius": 6500,
+      "opacityCurve": [
+        {
+          "time": 0,
+          "value": 0.01
+        }
+      ]
+    }
+  ]
+}

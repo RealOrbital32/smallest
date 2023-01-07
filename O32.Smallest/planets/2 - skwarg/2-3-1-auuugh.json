@@ -1,0 +1,56 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Auuugh",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 26,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 50,
+    "inclination": 0,
+    "primaryBody": "Meme Twins",
+    "isMoon": true,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "ProcGen": {
+    "color": {
+      "r": 128,
+      "g": 207,
+      "b": 124,
+      "a": 255
+    },
+    "scale": 20
+  },
+  "Water": {
+    "size": 20,
+    "tint": {
+      "r": 51,
+      "g": 89,
+      "b": 49,
+      "a": 255
+    }
+  },
+  "Atmosphere": {
+    "atmosphereSunIntensity": 0.5,
+    "size": 25,
+    "fogSize": 25,
+    "atmosphereTint": {
+      "r": 139,
+      "g": 191,
+      "b": 136,
+      "a": 255
+    },
+    "fogTint": {
+      "r": 139,
+      "g": 191,
+      "b": 136,
+      "a": 255
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Hurt",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 26,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 1100,
+    "inclination": 0,
+    "primaryBody": "Vegua",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "Atmosphere": {
+    "atmosphereSunIntensity": 0.5,
+    "size": 30,
+    "fogSize": 30,
+    "atmosphereTint": {
+      "r": 114,
+      "g": 179,
+      "b": 224,
+      "a": 255
+    },
+    "fogTint": {
+      "r": 114,
+      "g": 179,
+      "b": 224,
+      "a": 255
+    }
+  },
+  "ProcGen": {
+    "color": {
+      "r": 121,
+      "g": 163,
+      "b": 104,
+      "a": 255
+    },
+    "scale": 25
+  }
+}

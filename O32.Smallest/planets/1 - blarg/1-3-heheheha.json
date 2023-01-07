@@ -1,0 +1,70 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Heheheha",
+	"starSystem": "O32.Smallest",
+	"Base": {
+		"surfaceSize": 21,
+		"surfaceGravity": 15,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 1000,
+		"inclination": 0,
+		"primaryBody": "Blarg",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"ProcGen": {
+		"color": {
+			"r": 100,
+			"g": 150,
+			"b": 150,
+			"a": 255
+		},
+		"scale": 20
+	},
+	"Atmosphere": {
+		"atmosphereSunIntensity": 0.5,
+		"hasOxygen": true,
+		"size": 30,
+		"fogSize": 30,
+		"atmosphereTint": {
+			"r": 20,
+			"g": 50,
+			"b": 200,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 20,
+			"g": 50,
+			"b": 200,
+			"a": 255
+		}
+	},
+	"Water": {
+		"size": 20,
+		"tint": {
+			"r": 20,
+			"g": 50,
+			"b": 200,
+			"a": 255
+		}
+	},
+	"Spawn": {
+		"startWithSuit": true,
+		"shipSpawnPoint": {
+			"x": 0,
+			"y": 25,
+			"z": 0
+		},
+		"playerSpawnPoint": {
+			"x": 0,
+			"y": 30,
+			"z": 0
+		}
+	}
+}

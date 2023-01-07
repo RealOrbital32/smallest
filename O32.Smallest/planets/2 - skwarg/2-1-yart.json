@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Yart",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 21,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 800,
+    "inclination": 0,
+    "primaryBody": "Skwarg",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "ProcGen": {
+    "color": {
+      "r": 135,
+      "g": 100,
+      "b": 35,
+      "a": 255
+    },
+    "scale": 20
+  },
+  "Lava": {
+    "size": 20,
+    "tint": {
+      "r": 150,
+      "g": 63,
+      "b": 15
+    }
+  }
+}

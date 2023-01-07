@@ -1,0 +1,75 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Bigbain",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 70,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 1650,
+    "inclination": 0,
+    "primaryBody": "Skwarg",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "Atmosphere": {
+    "atmosphereSunIntensity": 0.5,
+    "size": 70,
+    "fogSize": 70,
+    "atmosphereTint": {
+      "r": 132,
+      "g": 194,
+      "b": 227,
+      "a": 255
+    },
+    "fogTint": {
+      "r": 132,
+      "g": 194,
+      "b": 227,
+      "a": 255
+    },
+    "clouds": {
+      "texturePath": "planets/assets/bigbainG.png",
+      "capPath": "planets/assets/bigbainC.png",
+      "innerCloudRadius": 1,
+      "outerCloudRadius": 65,
+      "tint": {
+        "r": 132,
+        "g": 194,
+        "b": 227,
+        "a": 255
+      }
+    }
+  },
+  "Rings": [
+    {
+      "texture": "planets/assets/bigbainR.png",
+      "fluidType": "sand",
+      "inclination": 5,
+      "innerRadius": 75,
+      "outerRadius": 85
+    },
+    {
+      "texture": "planets/assets/bigbainR.png",
+      "fluidType": "sand",
+      "inclination": 5,
+      "innerRadius": 95,
+      "outerRadius": 105
+    }
+  ],
+  "ProcGen": {
+    "color": {
+      "r": 132,
+      "g": 194,
+      "b": 227,
+      "a": 255
+    },
+    "scale": 20
+  }
+}

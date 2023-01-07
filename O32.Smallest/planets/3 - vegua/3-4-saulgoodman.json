@@ -1,0 +1,47 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Saul Goodman",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 16,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 1300,
+    "inclination": 0,
+    "primaryBody": "Vegua",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "Atmosphere": {
+    "atmosphereSunIntensity": 0.5,
+    "size": 20,
+    "fogSize": 20,
+    "atmosphereTint": {
+      "r": 194,
+      "g": 76,
+      "b": 29,
+      "a": 255
+    },
+    "fogTint": {
+      "r": 194,
+      "g": 76,
+      "b": 29,
+      "a": 255
+    }
+  },
+  "ProcGen": {
+    "color": {
+      "r": 184,
+      "g": 55,
+      "b": 29,
+      "a": 255
+    },
+    "scale": 15
+  }
+}

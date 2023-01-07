@@ -1,0 +1,57 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Culinary 2",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 18,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 150,
+    "inclination": 1,
+    "primaryBody": "Bigbain",
+    "isMoon": true,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0.05,
+    "argumentOfPeriapsis": 57
+  },
+  "Atmosphere": {
+    "atmosphereSunIntensity": 0.5,
+    "hasOxygen": true,
+    "size": 18,
+    "fogSize": 18,
+    "atmosphereTint": {
+      "r": 26,
+      "g": 42,
+      "b": 122,
+      "a": 255
+    },
+    "fogTint": {
+      "r": 26,
+      "g": 42,
+      "b": 122,
+      "a": 255
+    }
+  },
+  "Water": {
+    "size": 13,
+    "tint": {
+      "r": 26,
+      "g": 42,
+      "b": 122,
+      "a": 255
+    }
+  },
+  "ProcGen": {
+    "color": {
+      "r": 67,
+      "g": 102,
+      "b": 61,
+      "a": 255
+    },
+    "scale": 13
+  }
+}

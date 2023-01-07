@@ -1,0 +1,59 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "Dragondeez",
+  "starSystem": "O32.Smallest",
+  "Base": {
+    "surfaceSize": 21,
+    "surfaceGravity": 15,
+    "hasMapMarker": true
+  },
+  "Orbit": {
+    "semiMajorAxis": 1900,
+    "inclination": 0,
+    "primaryBody": "Skwarg",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "Atmosphere": {
+    "atmosphereSunIntensity": 0.5,
+    "size": 45,
+    "fogSize": 45,
+    "atmosphereTint": {
+      "r": 182,
+      "g": 110,
+      "b": 224,
+      "a": 255
+    },
+    "fogTint": {
+      "r": 182,
+      "g": 110,
+      "b": 224,
+      "a": 255
+    },
+    "clouds": {
+      "texturePath": "planets/assets/dragondeezG.png",
+      "capPath": "planets/assets/dragondeezC.png",
+      "innerCloudRadius": 1,
+      "outerCloudRadius": 40,
+      "tint": {
+        "r": 182,
+        "g": 110,
+        "b": 224,
+        "a": 255
+      }
+    }
+  },
+  "ProcGen": {
+    "color": {
+      "r": 182,
+      "g": 110,
+      "b": 224,
+      "a": 255
+    },
+    "scale": 10
+  }
+}
